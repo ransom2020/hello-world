@@ -1,2 +1,2 @@
 # hello-world
-First Github project
+Hi world,  This is Brandon Ransom's first project.  I am a first year PhD student in Personal Health Informatics at Northeastern University.  For those that might not be familiar, personal health informatics is a field that uses health information to create behavior change (think fitbit).  My research focuses on using health technology to reduce or eliminate health disparities.  This GitHub will be the home to many cool health tech projects.  
